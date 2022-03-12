@@ -59,7 +59,7 @@ Our website is responsive as well.
 
 
 ## Our blog link :
-https://h1t3ndr4.medium.com/cloning-of-zara-website-119d7d053880
+https://h1t3ndr4.medium.com/cloning-of-zara-website-1e54f1e590ef
 
 ## Deploy Link :
 https://zara-replica.netlify.app/
